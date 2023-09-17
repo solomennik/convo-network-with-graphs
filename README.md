@@ -1,6 +1,4 @@
-# convo-network-with-graphs
-
-Code for Convolution networks with graphs.
+# Convolutional networks with graphs.
 
 This code was written by A. Suvorov within his work in [CACS](https://cacs.ai/).
 
